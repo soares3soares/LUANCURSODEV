@@ -1,4 +1,6 @@
-public class Main {
+package Exemplos;
+
+public class Catalago {
 
     public static void main(String[] args){
         //estrutura de seleção
